@@ -1,2 +1,2 @@
 # Java-algorithm
-algorithms whrited by Java
+Java实现的一些算法
